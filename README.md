@@ -13,3 +13,13 @@
   <p>まずこちらをダウンロードしてください。</p>
   
   [ダウンロード](https://github.com/kana00000/test/raw/main/%E3%82%B9%E3%83%91%E3%83%A0%E5%AF%BE%E7%AD%96.zip)
+  
+<h2 id="process">準備</h2>
+  <p>1.先ほどダウンロードしたファイルを解凍してください。</p>
+    
+  <p>2.こちらを検索バーに張り付けて拡張機能の設定画面を表示してください。</p>
+    
+  ```
+    chrome://extensions/
+  ```
+  <img alt="デドロッパーモード" src="imgs\chrome-1.png" />
