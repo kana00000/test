@@ -9,6 +9,7 @@
 <h2 id="environment">環境</h2>
     <p>Windows 10</p>
     <p>chrome Ver.120.0.6099.225</p>
+    <p>※現在PCのみで動作可能です。</p>
 
 <h2 id="preparation">準備</h2>
   <p>まずこちらをダウンロードしてください。</p>
