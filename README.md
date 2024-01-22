@@ -13,7 +13,7 @@
 <h2 id="preparation">準備</h2>
   <p>まずこちらをダウンロードしてください。</p>
   
-  [ダウンロード](https://github.com/kana00000/test/raw/main/%E3%82%B9%E3%83%91%E3%83%A0%E5%AF%BE%E7%AD%96.zip)
+  [ダウンロード]([https://github.com/kana00000/test/raw/main/%E3%82%B9%E3%83%91%E3%83%A0%E5%AF%BE%E7%AD%96.zip](https://github.com/kana00000/test/raw/main/%E3%82%B9%E3%83%91%E3%83%A0%E5%AF%BE%E7%AD%96Ver.1.1.zip))
   
 <h2 id="process">手順</h2>
   <p>1.先ほどダウンロードしたファイルを解凍してください。</p>
