@@ -30,5 +30,5 @@
 
   <img alt="パッケージ読み込み" src="imgs\chrome-2.png" />
 
-  <p>4.このように表示されたら成功です。</p>
+  <p>4.拡張機能が表示されたら成功です。</p>
   <img alt="パッケージ読み込み" src="imgs\chrome-3.png" />
